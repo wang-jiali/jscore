@@ -181,7 +181,7 @@ a.forEach(function(x,i,a){a[i]++}) //a现在是[2,3,4]
 
 在数组中查找匹配元素
 
-### 概要
+#### 概要
 
 ```js
 array.indexof(value)
